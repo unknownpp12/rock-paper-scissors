@@ -90,7 +90,3 @@ function playGame(){
     }
 };
 playGame();
-
-
-
-fuck
